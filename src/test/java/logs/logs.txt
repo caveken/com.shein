@@ -1,0 +1,155 @@
+2023-08-12 08:59:09 INFO  Log:37 - Go to main page
+2023-08-12 08:59:20 INFO  Log:37 - Main page direction is success
+2023-08-12 08:59:20 INFO  Log:37 - Starting sign in process
+2023-08-12 09:02:17 INFO  Log:37 - Go to main page
+2023-08-12 09:02:28 INFO  Log:37 - Main page direction is success
+2023-08-12 09:02:28 INFO  Log:37 - Starting sign in process
+2023-08-12 09:06:36 INFO  Log:37 - Go to main page
+2023-08-12 09:06:46 INFO  Log:37 - Main page direction is success
+2023-08-12 09:06:46 INFO  Log:37 - Shein main category verification starts
+2023-08-12 09:06:47 INFO  Log:37 - Main categories verified
+2023-08-12 09:07:09 INFO  Log:37 - Go to main page
+2023-08-12 09:07:19 INFO  Log:37 - Main page direction is success
+2023-08-12 09:07:19 INFO  Log:37 - Shein main category verification starts
+2023-08-12 09:07:19 INFO  Log:37 - Main categories verified
+2023-08-12 09:07:45 INFO  Log:37 - Go to main page
+2023-08-12 09:07:57 INFO  Log:37 - Main page direction is success
+2023-08-12 09:07:57 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-08-12 09:08:06 INFO  Log:37 - Wanted: JEANS
+2023-08-12 09:08:06 INFO  Log:37 - Listed: JEANS
+2023-08-12 09:08:08 INFO  Log:37 - Search process is success
+2023-08-12 09:08:35 INFO  Log:37 - Go to main page
+2023-08-12 09:08:47 INFO  Log:37 - Main page direction is success
+2023-08-12 09:08:47 INFO  Log:37 - Starting sign in process
+2023-08-12 09:08:54 INFO  Log:37 - Go to main page
+2023-08-12 09:09:09 INFO  Log:37 - Main page direction is success
+2023-08-12 09:09:09 INFO  Log:37 - Shein main category verification starts
+2023-08-12 09:09:09 INFO  Log:37 - Main categories verified
+2023-08-12 09:09:14 INFO  Log:37 - Go to main page
+2023-08-12 09:09:27 INFO  Log:37 - Main page direction is success
+2023-08-12 09:09:27 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-08-12 09:09:32 INFO  Log:37 - Go to main page
+2023-08-12 09:09:45 INFO  Log:37 - Main page direction is success
+2023-08-12 09:09:45 INFO  Log:37 - Starting search process : shirts is/are listed
+2023-08-12 09:09:51 INFO  Log:37 - Go to main page
+2023-08-12 09:10:05 INFO  Log:37 - Main page direction is success
+2023-08-12 09:10:05 INFO  Log:37 - Starting search process : phone is/are listed
+2023-08-12 09:10:11 INFO  Log:37 - Go to main page
+2023-08-12 09:10:24 INFO  Log:37 - Main page direction is success
+2023-08-12 09:10:24 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-08-12 09:10:29 INFO  Log:37 - Go to main page
+2023-08-12 09:10:45 INFO  Log:37 - Main page direction is success
+2023-08-12 09:10:45 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-08-12 09:10:51 INFO  Log:37 - Go to main page
+2023-08-12 09:11:06 INFO  Log:37 - Main page direction is success
+2023-08-12 09:11:09 INFO  Log:37 - Verification of Brand page links
+2023-08-12 09:11:15 INFO  Log:37 - Go to main page
+2023-08-12 09:11:30 INFO  Log:37 - Main page direction is success
+2023-08-12 09:11:37 INFO  Log:37 - Go to main page
+2023-08-12 09:11:50 INFO  Log:37 - Main page direction is success
+2023-08-12 09:11:56 INFO  Log:37 - Sale Zone page is opened
+2023-08-12 09:12:02 INFO  Log:37 - Go to main page
+2023-08-12 09:12:15 INFO  Log:37 - Main page direction is success
+2023-08-12 09:12:15 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-08-12 09:12:21 INFO  Log:37 - Go to main page
+2023-08-12 09:12:36 INFO  Log:37 - Main page direction is success
+2023-08-12 09:12:47 INFO  Log:37 - Go to main page
+2023-08-12 09:13:01 INFO  Log:37 - Main page direction is success
+2023-08-12 09:13:03 INFO  Log:37 - Home category test starts
+2023-08-12 09:13:11 INFO  Log:37 - Go to main page
+2023-08-12 09:13:25 INFO  Log:37 - Main page direction is success
+2023-08-12 09:13:25 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-08-12 09:13:31 INFO  Log:37 - Go to main page
+2023-08-12 09:13:46 INFO  Log:37 - Main page direction is success
+2023-08-12 09:13:46 INFO  Log:37 - Test of best-selling product listings begins
+2023-08-12 09:18:53 INFO  Log:37 - Go to main page
+2023-08-12 09:19:04 INFO  Log:37 - Main page direction is success
+2023-08-12 09:19:04 INFO  Log:37 - Starting sign in process
+2023-08-12 09:21:38 INFO  Log:37 - Go to main page
+2023-08-12 09:21:49 INFO  Log:37 - Main page direction is success
+2023-08-12 09:21:49 INFO  Log:37 - Starting sign in process
+2023-08-12 09:25:35 INFO  Log:37 - Go to main page
+2023-08-12 09:25:48 INFO  Log:37 - Main page direction is success
+2023-08-12 09:25:48 INFO  Log:37 - Starting sign in process
+2023-08-12 09:34:00 INFO  Log:37 - Go to main page
+2023-08-12 09:34:10 INFO  Log:37 - Main page direction is success
+2023-08-12 09:34:10 INFO  Log:37 - Starting sign in process
+2023-08-12 09:37:52 INFO  Log:37 - Go to main page
+2023-08-12 09:38:05 INFO  Log:37 - Main page direction is success
+2023-08-12 09:38:05 INFO  Log:37 - Starting sign in process
+2023-08-12 09:39:11 INFO  Log:37 - Go to main page
+2023-08-12 09:39:23 INFO  Log:37 - Main page direction is success
+2023-08-12 09:39:23 INFO  Log:37 - Starting sign in process
+2023-08-12 09:47:42 INFO  Log:37 - Go to main page
+2023-08-12 09:47:55 INFO  Log:37 - Main page direction is success
+2023-08-12 09:47:55 INFO  Log:37 - Starting sign in process
+2023-08-12 09:52:27 INFO  Log:37 - Go to main page
+2023-08-12 09:52:42 INFO  Log:37 - Main page direction is success
+2023-08-12 09:52:42 INFO  Log:37 - Starting sign in process
+2023-08-12 09:55:52 INFO  Log:37 - Go to main page
+2023-08-12 09:56:03 INFO  Log:37 - Main page direction is success
+2023-08-12 09:56:03 INFO  Log:37 - Starting sign in process
+2023-08-12 09:56:55 INFO  Log:37 - Sign in process is success
+2023-08-12 09:56:55 INFO  Log:37 - Starting sign out process
+2023-08-12 09:57:02 INFO  Log:37 - Sign out process is success
+2023-08-12 09:57:50 INFO  Log:37 - Go to main page
+2023-08-12 09:58:03 INFO  Log:37 - Main page direction is success
+2023-08-12 09:58:03 INFO  Log:37 - Starting sign in process
+2023-08-12 09:58:56 INFO  Log:37 - Sign in process is success
+2023-08-12 09:58:56 INFO  Log:37 - Starting sign out process
+2023-08-12 09:59:13 INFO  Log:37 - Go to main page
+2023-08-12 09:59:41 INFO  Log:37 - Go to main page
+2023-08-12 09:59:54 INFO  Log:37 - Main page direction is success
+2023-08-12 09:59:54 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-08-12 10:00:00 INFO  Log:37 - Go to main page
+2023-08-12 10:00:16 INFO  Log:37 - Main page direction is success
+2023-08-12 10:00:16 INFO  Log:37 - Starting search process : shirts is/are listed
+2023-08-12 10:00:22 INFO  Log:37 - Go to main page
+2023-08-12 10:07:55 INFO  Log:37 - Go to main page
+2023-08-12 10:08:07 INFO  Log:37 - Main page direction is success
+2023-08-12 10:08:07 INFO  Log:37 - Starting sign in process
+2023-08-12 10:09:00 INFO  Log:37 - Sign in process is success
+2023-08-12 10:09:00 INFO  Log:37 - Starting sign out process
+2023-08-12 10:09:07 INFO  Log:37 - Sign out process is success
+2023-08-12 10:09:12 INFO  Log:37 - Go to main page
+2023-08-12 10:09:24 INFO  Log:37 - Main page direction is success
+2023-08-12 10:09:24 INFO  Log:37 - Shein main category verification starts
+2023-08-12 10:09:24 INFO  Log:37 - Main categories verified
+2023-08-12 10:09:30 INFO  Log:37 - Go to main page
+2023-08-12 10:09:44 INFO  Log:37 - Main page direction is success
+2023-08-12 10:09:44 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-08-12 10:09:50 INFO  Log:37 - Go to main page
+2023-08-12 10:10:04 INFO  Log:37 - Main page direction is success
+2023-08-12 10:10:04 INFO  Log:37 - Starting search process : shirts is/are listed
+2023-08-12 10:10:10 INFO  Log:37 - Go to main page
+2023-08-12 10:10:25 INFO  Log:37 - Main page direction is success
+2023-08-12 10:10:25 INFO  Log:37 - Starting search process : phone is/are listed
+2023-08-12 10:10:31 INFO  Log:37 - Go to main page
+2023-08-12 10:10:43 INFO  Log:37 - Main page direction is success
+2023-08-12 10:10:43 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-08-12 10:10:49 INFO  Log:37 - Go to main page
+2023-08-12 10:11:01 INFO  Log:37 - Main page direction is success
+2023-08-12 10:11:01 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-08-12 10:11:07 INFO  Log:37 - Go to main page
+2023-08-12 10:11:23 INFO  Log:37 - Main page direction is success
+2023-08-12 10:11:26 INFO  Log:37 - Verification of Brand page links
+2023-08-12 10:11:32 INFO  Log:37 - Go to main page
+2023-08-12 10:11:45 INFO  Log:37 - Main page direction is success
+2023-08-12 10:11:52 INFO  Log:37 - Go to main page
+2023-08-12 10:12:05 INFO  Log:37 - Main page direction is success
+2023-08-12 10:12:11 INFO  Log:37 - Sale Zone page is opened
+2023-08-12 10:12:17 INFO  Log:37 - Go to main page
+2023-08-12 10:12:30 INFO  Log:37 - Main page direction is success
+2023-08-12 10:12:30 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-08-12 10:12:36 INFO  Log:37 - Go to main page
+2023-08-12 10:12:50 INFO  Log:37 - Main page direction is success
+2023-08-12 10:12:59 INFO  Log:37 - Go to main page
+2023-08-12 10:13:14 INFO  Log:37 - Main page direction is success
+2023-08-12 10:13:16 INFO  Log:37 - Home category test starts
+2023-08-12 10:13:25 INFO  Log:37 - Go to main page
+2023-08-12 10:21:49 INFO  Log:37 - Go to main page
+2023-08-12 10:22:02 INFO  Log:37 - Main page direction is success
+2023-08-12 10:22:02 INFO  Log:37 - Starting sign in process
+2023-08-12 10:22:55 INFO  Log:37 - Sign in process is success
+2023-08-12 10:22:55 INFO  Log:37 - Starting sign out process
+2023-08-12 10:23:01 INFO  Log:37 - Sign out process is success
